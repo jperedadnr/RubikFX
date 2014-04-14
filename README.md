@@ -11,7 +11,7 @@ layers or the whole cube, with this additional features:
 * count of moves and time of play
 * added dialogs
 
-Explained here: http://jperedadnr.blogspot.com/
+Explained here: http://jperedadnr.blogspot.com.es/2014/04/rubikfx-solving-rubiks-cube-with-javafx.html
  
 Requires Java 8: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
